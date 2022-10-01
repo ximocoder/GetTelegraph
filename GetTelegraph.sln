@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTelegraph", "GetTelegraph.csproj", "{16B1EA68-A127-4DDA-9B33-06CD00A202FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B1EA68-A127-4DDA-9B33-06CD00A202FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B1EA68-A127-4DDA-9B33-06CD00A202FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B1EA68-A127-4DDA-9B33-06CD00A202FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B1EA68-A127-4DDA-9B33-06CD00A202FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9ADB7F-EE79-4576-B023-DA7ECFB77A80}
+	EndGlobalSection
+EndGlobal
